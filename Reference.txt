@@ -1,0 +1,9 @@
+Thats how we created a game menu and the code for main menu using :
+https://www.youtube.com/watch?v=-GWjA6dixV4
+
+And thats how we created a code for respawning a car after fallin out of the map or hitting a barrel:
+https://www.youtube.com/watch?v=gLKPuWzcujE&t=1s
+
+Assets
+Golf car :https://sketchfab.com/feed
+Track:https://sketchfab.com/3d-models/race-track-low-poly-1c8633fd04bb4f6d9302f37fcc222afd
