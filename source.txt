@@ -4,6 +4,15 @@ https://www.youtube.com/watch?v=-GWjA6dixV4
 And thats how we created a code for respawning a car after fallin out of the map or hitting a barrel:
 https://www.youtube.com/watch?v=gLKPuWzcujE&t=1s
 
+We took an idea for camera setup from this link:
+https://www.youtube.com/watch?v=ZPUtQ4pGGWs
+
+This is what we used for smoke particles:
+https://www.youtube.com/watch?v=jQivfs34Wb0
+
+And we also got help for doing a code for lap time from this video:
+https://www.youtube.com/watch?v=hEGCoV_X7Io&t=579s
+
 Assets
 Golf car :https://sketchfab.com/feed
 Track:https://sketchfab.com/3d-models/race-track-low-poly-1c8633fd04bb4f6d9302f37fcc222afd
